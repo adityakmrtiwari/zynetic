@@ -1,3 +1,8 @@
+SignUp Page
+![Screenshot 2025-04-09 195131](https://github.com/user-attachments/assets/f29a14bb-25fc-407d-bb9d-6ea4a4e043e1)
+Login Page
+![Screenshot 2025-04-09 195405](https://github.com/user-attachments/assets/fede3c05-3500-441b-807c-548d3e87e5a1)
+Dashboard.js
 ![Screenshot 2025-04-09 180629](https://github.com/user-attachments/assets/a898b6c2-7a7c-408b-b6b4-a61a4f0fbb5e)
 
 # 📚 Bookstore API & Frontend
