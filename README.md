@@ -1,5 +1,5 @@
+![Screenshot 2025-04-09 180629](https://github.com/user-attachments/assets/a898b6c2-7a7c-408b-b6b4-a61a4f0fbb5e)
 
-[Screenshot 2025-04-09 180629](https://github.com/user-attachments/assets/e51fe37a-82be-4c56-bc49-3edd29bccc96)
 # 📚 Bookstore API & Frontend
 
 A full-stack Bookstore Application with **JWT authentication**, **CRUD operations**, **search/filtering**, and a clean **Tailwind UI**. Built using:
